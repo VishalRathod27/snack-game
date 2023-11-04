@@ -271,7 +271,7 @@ function updateGameSettings() {
   } else if (selectedMode === "medium") {
     snakeSpeed = 100;
   } else if (selectedMode === "hard") {
-    snakeSpeed = 45;
+    snakeSpeed = 35;
   }
 }
 
